@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://lostrealm.github.io"
+baseurl: "/lostrealm.github.io"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Lost Realms
+serverDescription: A RPG Style Minecraft Server.
+serverIP: lost.modded.fun
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/5fhRG77PUm
+discordServerID: 1131250341309075557
+discordChannelID: 1131261371066093700
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
