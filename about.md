@@ -23,10 +23,6 @@ For those who prefer a more peaceful path, indulge in the art of crafting, build
 
 Are you ready to embrace the allure of darkness and step into a world where magic and mayhem coexist? Join us at Lost Realms and experience Minecraft like never before with the DarkRPG modpack. Adventure awaits, and the fate of the realm lies in your hands.
 
-**Full Wipe:** Monthtly, first Thursday of every month @ 7 PM eastern.
-
-**Purge:** Monthtly, Wednesday before wipe @ 7 PM eastern.
-
 <hr color="#7B4B94">
 
 [Join Our Discord][discord]
