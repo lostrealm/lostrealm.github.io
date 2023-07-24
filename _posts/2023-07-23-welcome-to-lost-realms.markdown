@@ -21,8 +21,7 @@ Whether you are an architect, a master builder, or a seasoned explorer, Lost Rea
 To maintain a harmonious and welcoming community, we have a set of rules in place. Please make sure to familiarize yourself with them and abide by them to ensure everyone has a fantastic time.
 
 ### 🔮 Ready to Embark on Your Quest? 🔮 ###
-Join our discord now and set forth on a journey unlike any other. Installation instructions for the DarkRPG modpack can be found here. We can't wait to see you on Lost Realms!
+Join our discord now and set forth on a journey unlike any other. Installation instructions for the DarkRPG modpack can be found [here](about.md). We can't wait to see you on Lost Realms! If you have any questions or need assistance, our dedicated team of staff members is always here to help. So gather your gear, sharpen your swords, and let the adventures begin!
 
-If you have any questions or need assistance, our dedicated team of staff members is always here to help. So gather your gear, sharpen your swords, and let the adventures begin!
 
 Welcome to Lost Realms - where the magic of Minecraft and the allure of DarkRPG come together to create an unforgettable experience. Enjoy your stay and may your adventures be legendary! 🌟
