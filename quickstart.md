@@ -7,7 +7,11 @@ order: 2
 
 <hr color="#7B4B94">
 
-## **Installation Instructions**
+**Use this Quickstart guide to start playing on Lost Realms!**
+
+<hr color="#7B4B94">
+
+## **CurseForge/Modpack Installation Instructions**
 
 To embark on your epic journey through this enchanted realm, you'll need to install the DarkRPG modpack using the CurseForge client. Follow the step-by-step instructions below to get started:
 
