@@ -27,7 +27,6 @@ Respect Others: Treat all players with respect and kindness. Harassment, bullyin
 - **No Advertising:** Do not promote other Minecraft servers or unrelated communities.
 - **No NSFW Content:** Posting or discussing adult or NSFW content is strictly prohibited.
 - **English Only:** Keep the in-game chat and global communication primarily in English to ensure everyone can understand and participate.
-- **No AFK Farms:** Automated AFK farms or excessive redstone contraptions that cause server lag are not allowed.
 - **Build Appropriately:** Avoid building offensive or inappropriate structures. Use your creativity to contribute positively to the server.
 - **Report Bugs and Issues:** If you encounter any server bugs or issues, report them to the staff promptly.
 
