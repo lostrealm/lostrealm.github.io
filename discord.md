@@ -6,30 +6,44 @@ order: 2
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
 ---
-<hr color="#22ffcd">
-
-**We are dedicated to building a respectful and welcoming community.** Come share your experiences with us!
-
-Support is **only** gaurnteed via a discord ticket. Join our discord [here](https://discord.gg/methodgames). 
+<hr color="#7B4B94">
 
 ## **Rules**
 
-1. Be kind, civil, and respectful to everyone.
-2. Be mindful of everyone's backgrounds, beliefs, and interests. This is a safe and inclusive community.
-3. No disrespectful language or slurs. Harassment, abuse, slander, hate speech, doxing, or discriminatory speech will not be tolerated.
-4. No discussions about politics, religion, or other sensitive topics. This is an online community, not a debate room.
-5. No explicit content. Please use your best judgement when sharing photos.
-6. No spamming @ mentions. Community promotions can be shared in the 📺-streamer-links channel.
-7. Banter is okay, but toxicity is not allowed.
+**1. Be Respectful:** Treat all members with kindness, respect, and empathy. Avoid offensive language, personal attacks, and harassment of any kind. Discriminatory behavior, including racism, sexism, homophobia, or any form of hate speech, is strictly prohibited.
 
-<hr color="#22ffcd">
+**2. No Spam or Self-Promotion:** Do not spam the chat with excessive messages, emojis, or advertisements. Self-promotion is only allowed in designated channels, and it must be related to Lost Realms or Minecraft.
 
-You are expected to follow the rules and by joining the server you will be held accountable for them. Admins and moderators reserve the right to remove messages from the server that are harmful. Interpretation and final verdict are at moderator discretion. If an admin or moderator asks you to stop or drop a conversation, you are expected to do so. Rules broken are reviewed on a case-by-case basis and the ones stated here are to cover the basics. 
+**3. Keep Discussions Appropriate:** Refrain from engaging in discussions or sharing content that is excessively violent, sexually explicit, or otherwise inappropriate for all ages.
 
-<hr color="#dab3ff">
+**4. No Trolling or Flaming:** Do not deliberately provoke or antagonize other members. Constructive criticism is welcome, but do so in a respectful manner.
 
-**TLDR: Be a nice human.**
+**5. Language and Content Guidelines:** Please keep the chat language appropriate and avoid excessive use of caps, excessive emojis, or excessive punctuation.
 
-**We hope you enjoy your time here! 💙**
+**6. No NSFW Content:** Posting or sharing any form of adult or NSFW content is strictly prohibited.
 
-<hr color="#dab3ff">
+**7. Respect Staff Decisions:** Follow the instructions of the server staff. If you have an issue or question, contact a moderator or admin privately.
+
+**8. No Advertising or Inviting Members:** Do not promote other servers or invite members to different communities within the Lost Realms server.
+
+**9. No Impersonation:** Do not impersonate other members, staff, or well-known personalities.
+
+**10. Use Appropriate Channels:** Post content in the relevant channels. Use the appropriate channels for discussions, media, suggestions, and support.
+
+**11. Respect User Privacy:** Do not share personal information about yourself or other members publicly.
+
+**12. English Language:** Please use English in the main channels to ensure everyone can understand and participate in discussions.
+
+**13. Follow Discord's Terms of Service:** Abide by Discord's Community Guidelines and Terms of Service at all times.
+
+<hr color="#7B4B94">
+
+Failure to comply with these rules may result in warnings, temporary mutes, kicks, or even bans, depending on the severity and frequency of the infractions. The staff reserves the right to take appropriate action as they see fit.
+
+Remember, the Lost Realms Discord server is a place to have fun, make friends, and share your love for Minecraft. Let's create a welcoming and enjoyable environment for all members to enjoy!
+
+<hr color="#7B4B94">
+
+[Join Our Discord][discord]
+
+[discord]: https://discord.gg/5fhRG77PUm
