@@ -49,6 +49,7 @@ To embark on your epic journey through this enchanted realm, you'll need to inst
 4. Name the server "Lost Realms" and save the entry.
 5. Select the "Lost Realms" server from the list and click "Join Server."
 
+**NOTE: Players will need to join the Lost Realms Discord server and verify their Username in the `#verification` channel. This verification step is a necessary measure to ensure the integrity of our server and provide a positive user experience.**
 
 <hr color="#7B4B94">
 
