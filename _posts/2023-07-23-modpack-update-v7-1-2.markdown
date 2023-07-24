@@ -20,7 +20,7 @@ We are thrilled to announce the latest update to our beloved modpack, bringing y
 
 - **Updated Fabric API:** Our dedication to providing a smooth and stable gaming experience continues with the latest update to Fabric API. Expect improved performance and fewer compatibility issues with this essential update.
 
-- **Added DragonLoot:** Brace yourselves, for formidable dragons now guard their lairs with unfathomable treasures! Venture into their domains, defeat these fearsome creatures, and claim their legendary loot as your own.
+- **Added DragonLoot:** DragonLoot is a simple mod that adds a new crafting material for the Ender Dragon. Once you kill the Ender Dragon you'll get some dragon scales that can be used to craft a new set of armor and an unbreakable anvil.
 
 With these thrilling changes, your adventures in Lost Realms will be more engaging, challenging, and enchanting than ever before. Explore the depths of dark dungeons, face formidable foes, and discover the secrets of this mysterious realm with newfound power and determination.
 
