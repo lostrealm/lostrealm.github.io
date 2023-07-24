@@ -29,7 +29,7 @@ To embark on your epic journey through this enchanted realm, you'll need to inst
 ### Step 3: Browse and Install the DarkRPG Modpack ###
 
 1. In the CurseForge client, click on the "Browse Modpacks" tab in the top navigation bar.
-2. Use the search bar to find "DarkRPG" and click on the modpack from the search results. Do not download the Forge version!
+2. Use the search bar to find "DarkRPG" and click on the modpack from the search results. **Do not download the Forge version!**
 3. On the modpack page, review the details and click the "Install" button.
 4. The CurseForge client will download and install all the required mods for DarkRPG automatically.
 
