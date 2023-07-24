@@ -59,7 +59,7 @@ To embark on your epic journey through this enchanted realm, you'll need to inst
 
 1. Click the "Play" button to launch Minecraft with the DarkRPG modpack.
 2. Once Minecraft has loaded, click on "Multiplayer" to access the server list.
-3. Click "Add Server" and enter the server address for Lost Realms (lost.modded.fun).
+3. Click "Add Server" and enter the server address for Lost Realms **(lost.modded.fun)**.
 4. Name the server "Lost Realms" and save the entry.
 5. Select the "Lost Realms" server from the list and click "Join Server."
 
