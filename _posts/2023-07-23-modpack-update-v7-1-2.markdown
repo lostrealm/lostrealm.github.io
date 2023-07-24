@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modpack Update - 7.1.2"
-date:   2023-07-23 21:36:44
+date:   2023-07-23 23:05:30
 categories: community update
 ---
 ## Lost Realms Modpack Update - Version 7.1.2 ##
