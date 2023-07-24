@@ -1,7 +1,7 @@
 ---
 title: "Server Rules"
 permalink: /server-rules/
-order: 3
+order: 4
 #toc: true
 #toc_label: "My Table of Contents"
 #toc_icon: "cog"
@@ -10,8 +10,7 @@ order: 3
 
 ## **Behavior Rules**
 
-Respect Others: Treat all players with respect and kindness. Harassment, bullying, or any form of discrimination based on race, gender, nationality, religion, or any other characteristic will not be tolerated.
-
+-**Respect Others:** Treat all players with respect and kindness. Harassment, bullying, or any form of discrimination based on race, gender, nationality, religion, or any other characteristic will not be tolerated.
 - **No Griefing:** Do not intentionally destroy or alter other players' builds without permission. Respect their hard work and creativity.
 - **Be Honest:** Do not engage in cheating, hacking, or exploiting glitches. Play the game fairly and encourage a level playing field for everyone.
 - **No Offensive Language:** Avoid using offensive or inappropriate language in the chat, signs, or books. Keep the server environment friendly and family-friendly.
