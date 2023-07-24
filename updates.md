@@ -7,7 +7,7 @@ order: 5
 
 <!-- <hr color="#7B4B94"> -->
 
-Here you will find patch notes to the rules as well as community updates.
+View our Community Updates and Modpack Update Announcments here.
 [Join Our Discord][discord]
 
 <hr color="#7B4B94">
