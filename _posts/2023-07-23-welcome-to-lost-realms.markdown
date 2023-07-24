@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Lost Realms!"
-date:   2023-07-23 21:36:44 -0500
+date:   2023-07-23 21:36:44 -0400
 categories: community update
 ---
 ## Greetings, brave adventurers! ##
