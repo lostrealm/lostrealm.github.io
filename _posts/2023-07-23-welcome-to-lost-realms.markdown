@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Welcome to Lost Realms!"
-date:   2023-07-23 21:36:44 -0500
+date:   2023-07-23 21:36:44
 categories: community update
 ---
 ## Greetings, brave adventurers! ##
 
 Step into the enchanting world of Lost Realms, a realm where magic and mystery abound. We are thrilled to have you join us on this thrilling journey through the wonders of Minecraft and the captivating DarkRPG modpack.
 
- ### 🏰 Embark on Epic Quests 🏰 ###
+### 🏰 Embark on Epic Quests 🏰 ###
 Prepare to be awestruck as you delve into daring quests, confront formidable foes, and uncover ancient treasures. The DarkRPG modpack introduces a whole new realm of possibilities, with unique spells, abilities, and skills that will make you a force to be reckoned with!
 
 ### 💬 Join our Thriving Community 💬 ###
