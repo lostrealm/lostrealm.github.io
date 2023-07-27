@@ -31,7 +31,7 @@ With these thrilling changes, your adventures in Lost Realms will be more engagi
 To embark on this exciting journey, follow these simple steps:
 
 1. Launch the CurseForge client and navigate to the "My Modpacks" section.
-2. Locate Lost Realms and click on the three dots (ellipsis) next to the modpack.
+2. Locate DarkRPG and click on the arrow next to the play button.
 3. Select "Upgrade" to update to Version 7.1.2.
 4. The client will handle the update process, ensuring all changes take effect seamlessly.
 
