@@ -4,6 +4,8 @@ title:  "Modpack Update - 7.1.5"
 date:   2023-07-26 22:52:32
 categories: modpack update
 ---
+<hr color="#7B4B94">
+
 ## Lost Realms Modpack Update - Version 7.1.5 ##
 
 Greetings, brave adventurers of Lost Realms!
@@ -38,3 +40,9 @@ To embark on this exciting journey, follow these simple steps:
 As always, our community's feedback and support have been instrumental in shaping this update. Your dedication to Lost Realms has made this journey truly remarkable, and we cannot wait to witness the fantastic tales and adventures you'll unfold in this enriched modpack.
 
 Should you encounter any issues or have any questions about the update, don't hesitate to reach out to our supportive community or the ever-ready server staff.
+
+<hr color="#7B4B94">
+
+[Join Our Discord][discord]
+
+[discord]: https://discord.gg/5fhRG77PUm

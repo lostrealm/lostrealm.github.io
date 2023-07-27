@@ -4,6 +4,8 @@ title:  "Welcome to Lost Realms!"
 date:   2023-07-23 21:36:44
 categories: community update
 ---
+<hr color="#7B4B94">
+
 ## Greetings, brave adventurers! ##
 
 Step into the enchanting world of Lost Realms, a realm where magic and mystery abound. We are thrilled to have you join us on this thrilling journey through the wonders of Minecraft and the captivating DarkRPG modpack.
