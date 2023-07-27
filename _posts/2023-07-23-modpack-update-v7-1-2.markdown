@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Modpack Update - 7.1.2"
-date:   2023-07-23 23:05:30
-categories: community update
+date:   2023-07-23 22:51:23
+categories: modpack update
 ---
 ## Lost Realms Modpack Update - Version 7.1.2 ##
 
@@ -12,15 +12,15 @@ We are thrilled to announce the latest update to our beloved modpack, bringing y
 
 ### Changelog: ###
 
-- **Updated Amethyst Imbuement:** The mystical powers of the Amethyst Imbuement have been further refined. Harness the raw energy of amethysts to enchant your gear with even more potent and unique abilities.
+- `Updated Amethyst Imbuement:` The mystical powers of the Amethyst Imbuement have been further refined. Harness the raw energy of amethysts to enchant your gear with even more potent and unique abilities.
 
-- **Updated Mythic Upgrades:** The Mythic Upgrades have been polished and expanded, offering you a wider range of powerful enhancements for your weapons and armor. Unleash the true potential of your gear with these awe-inspiring upgrades.
+- `Updated Mythic Upgrades:` The Mythic Upgrades have been polished and expanded, offering you a wider range of powerful enhancements for your weapons and armor. Unleash the true potential of your gear with these awe-inspiring upgrades.
 
-- **Updated Trinkets:** Discover an array of updated trinkets with intriguing effects and mystical properties. These small yet powerful artifacts will complement your character's abilities and provide new strategic options in battles.
+- `Updated Trinkets:` Discover an array of updated trinkets with intriguing effects and mystical properties. These small yet powerful artifacts will complement your character's abilities and provide new strategic options in battles.
 
-- **Updated Fabric API:** Our dedication to providing a smooth and stable gaming experience continues with the latest update to Fabric API. Expect improved performance and fewer compatibility issues with this essential update.
+- `Updated Fabric API:` Our dedication to providing a smooth and stable gaming experience continues with the latest update to Fabric API. Expect improved performance and fewer compatibility issues with this essential update.
 
-- **Added DragonLoot:** DragonLoot is a simple mod that adds a new crafting material for the Ender Dragon. Once you kill the Ender Dragon you'll get some dragon scales that can be used to craft a new set of armor and an unbreakable anvil.
+- `Added DragonLoot:` DragonLoot is a simple mod that adds a new crafting material for the Ender Dragon. Once you kill the Ender Dragon you'll get some dragon scales that can be used to craft a new set of armor and an unbreakable anvil.
 
 With these thrilling changes, your adventures in Lost Realms will be more engaging, challenging, and enchanting than ever before. Explore the depths of dark dungeons, face formidable foes, and discover the secrets of this mysterious realm with newfound power and determination.
 
