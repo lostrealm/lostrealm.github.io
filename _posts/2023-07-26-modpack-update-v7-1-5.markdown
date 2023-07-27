@@ -12,15 +12,15 @@ We are thrilled to unveil the latest update to our beloved modpack, Version 7.1.
 
 ### Changelog: ###
 
-- `Updated Mods:` We've updated several mods to their latest versions, ensuring a smoother and more optimized gameplay experience.
+`Updated Mods` We've updated several mods to their latest versions, ensuring a smoother and more optimized gameplay experience.
 
-- `Puzzle Lib Removal:` Due to random server crashing at specific block entries, we have decided to remove Puzzle Lib, along with its dependent mods, Completionist Index and Universal Bone Meal.
+`Puzzle Lib Removal` Due to random server crashing at specific block entries, we have decided to remove Puzzle Lib, along with its dependent mods, Completionist Index and Universal Bone Meal.
 
-- `Mod Updates:` We've ensured that Xaero's World Map and Minimap, Simply Swords, Show Me Your Skin, Puzzles Lib, OPAC, Jade, Jamlib, Farsight, EMI, DarkBindings, Architectury API, Craft Presence, Fabric API, Complementary Reimagined Shaders, Solas Shaders, and MakeUp Ultrafast Shaders are all up-to-date for a seamless and enjoyable gameplay experience.
+`Mod Updates` We've ensured that Xaero's World Map and Minimap, Simply Swords, Show Me Your Skin, Puzzles Lib, OPAC, Jade, Jamlib, Farsight, EMI, DarkBindings, Architectury API, Craft Presence, Fabric API, Complementary Reimagined Shaders, Solas Shaders, and MakeUp Ultrafast Shaders are all up-to-date for a seamless and enjoyable gameplay experience.
 
-- `New Additions:` Say hello to exciting new additions to Lost Realms! We've introduced EMI Loot, Immersive Armors, DarkOrb, and Macaw's Doors, expanding the realm's possibilities and providing you with even more tools to enhance your adventures.
+`New Additions` Say hello to exciting new additions to Lost Realms! We've introduced EMI Loot, Immersive Armors, DarkOrb, and Macaw's Doors, expanding the realm's possibilities and providing you with even more tools to enhance your adventures.
 
-- `DragonLoot Restoration:` Fear not, for we have restored DragonLoot recipes for clients, ensuring you'll once again be rewarded with legendary treasures from these formidable creatures.
+`DragonLoot Restoration` Fear not, for we have restored DragonLoot recipes for clients, ensuring you'll once again be rewarded with legendary treasures from these formidable creatures.
 
 We're immensely grateful for the continuous support and valuable feedback from our community, which has shaped this update into something truly remarkable. Your dedication to Lost Realms fuels our passion for creating an ever-evolving and enchanting world.
 
