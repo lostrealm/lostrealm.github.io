@@ -2,7 +2,7 @@
 layout: page
 title: Quickstart
 permalink: /quickstart/
-order: 2
+order: 3
 ---
 
 <hr color="#7B4B94">
