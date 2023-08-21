@@ -10,6 +10,9 @@ categories: modpack update
 
 Hello everyone! We're excited to bring you a new update for the server, packed with a plethora of changes, additions, and improvements. As always, remember to back up your worlds before updating to ensure a smooth transition. Here's what's new:
 
+
+### Changelog ###
+
 **Additions:**
 
 `Bliss Shaders:` Introducing a fresh set of shaders based on chocapic13 edit, enhancing your visual experience.
