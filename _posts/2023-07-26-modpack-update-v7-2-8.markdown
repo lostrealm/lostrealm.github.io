@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modpack Update - 7.2.8"
-date:   2023-07-26 22:52:32
+date:   2023-08-21 17:09:47
 categories: modpack update
 ---
 <hr color="#7B4B94">
