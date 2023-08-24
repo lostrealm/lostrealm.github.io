@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Modpack Update - 7.2.8"
-date:   2023-08-21 17:09:47
+title:  "Modpack Update - 7.2.9"
+date:   2023-08-24 17:02:14
 categories: modpack update
 ---
 <hr color="#7B4B94">
 
-## Lost Realms Modpack Update - Version 7.2.8 ##
+## Lost Realms Modpack Update - Version 7.2.9 ##
 
 Hello everyone! We're excited to bring you a new update for the server, packed with a plethora of changes, additions, and improvements. As always, remember to back up your worlds before updating to ensure a smooth transition. Here's what's new:
 
@@ -28,12 +28,31 @@ Hello everyone! We're excited to bring you a new update for the server, packed w
 - **Travelers Backpacks:** A practical solution for your inventory management needs.
 - **Spellbound Aegis Origin:** Unleash the power of the Spellbound Aegis with this new origin.
 - **DarkGlint and Frostbyte's Slabs & Stairs:** Welcome these new mods to diversify your building and exploration.
+- **Vanity Slots:** A much-requested addition, Vanity Slots bring more customization to your character.
+- **Elytra Trinket Slot:** Fulfilling a popular demand, this new slot enhances your flying experience.
 
 `Updates and Improvements`
 
 - **Numerous Mods:** We've updated a plethora of mods to their latest versions, ensuring a smoother and enhanced experience.
-- **Increased World Borders:** We've expanded the world borders for Roguebane and Witchbane, offering more space for your adventures.
+- **Athena:** Unveil the updated prowess of Athena as it takes a new form.
+- **Alternate Origin UI:** Experience an enhanced user interface for the Alternate Origin mod.
+- **Amethyst Core:** Witness the refined strength of the Amethyst Core after the update.
+- **Amethyst Imbuement:** Dive into the new possibilities brought by the Amethyst Imbuement update.
+- **Cupboard:** A refreshed Cupboard offers new functionalities and possibilities.
+- **Crystals Overhauled:** The Crystals Overhauled mod gets even better with this update.
+- **Dynamic Trims:** Enjoy a dynamic trim experience with the latest Dynamic Trims update.
+- **Exline's Furniture:** Exline's Furniture is back with exciting new additions and improvements.
+- **Fabric Language Kotlin:** The Fabric Language Kotlin mod receives an update, enhancing compatibility.
+- **Frostbyte's Slabs & Stairs:** Discover refreshed building possibilities with the updated Frostbyte's Slabs & Stairs.
+- **Fzzy Core:** The Fzzy Core mod is updated to offer a better foundation for your adventure.
+- **JEI:** Explore a more informative and user-friendly experience with the updated Just Enough Items (JEI).
+- **Reinforced Shulker Boxes:** Reinforced Shulker Boxes bring added convenience and durability after the update.
+- **Resourceful Lib:** Enjoy enhanced mod compatibility and functionality with the updated Resourceful Lib.
+- **Utility Belt:** The Utility Belt mod becomes even more indispensable with this update.
+- **Xaero's Minimap & World Map:** Navigate the realm with even more ease using the updated Xaero's Minimap & World Map.
+- **Framework:** Experience a smoother gameplay experience with the updated Framework.
 - **Hotfixes:** Quick fixes have been implemented to address certain issues promptly.
+
 
 `Removals`
 
@@ -42,6 +61,8 @@ Hello everyone! We're excited to bring you a new update for the server, packed w
 - **Pumpkillager and Simple Discord Bot:** We've parted ways with these mods for a more streamlined experience.
 - **Elytra Trims, and Simply Swords:** These mods have been removed based on community feedback and compatibility concerns.
 - **Useful Backpacks:** Removed due to a bug. Please empty your backpacks before updating.
+- **Show Me Your Skin:** This removal, requested by the community, streamlines the modpack.
+- **Mythic Upgrades:** Bid adieu to Mythic Upgrades, making way for new possibilities.
 
 
 `Fixes`
@@ -62,7 +83,7 @@ To embark on this exciting journey, follow these simple steps:
 
 1. Launch the CurseForge client and navigate to the "My Modpacks" section.
 2. Locate DarkRPG and click on the arrow next to the play button.
-3. Select "Upgrade" to update to `Version 7.2.8`
+3. Select "Upgrade" to update to `Version 7.2.9`
 4. The client will handle the update process, ensuring all changes take effect seamlessly.
 
 As always, our community's feedback and support have been instrumental in shaping this update. Your dedication to Lost Realms has made this journey truly remarkable, and we cannot wait to witness the fantastic tales and adventures you'll unfold in this enriched modpack.
