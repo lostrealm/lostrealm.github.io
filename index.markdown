@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: landing
-image: ./assets/splash-title.png
+image: ./assets/splash(1).png
 ---
 
 <!-- {% for post in site.categories.blog %}
